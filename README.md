@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🌱 I’m from India and currently learning Javascript and Python
+
 <!--
 **Satakshi-ctrl/Satakshi-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
